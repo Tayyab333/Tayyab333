@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tayyab333
-- 👀 I’m interested in reasearch and development of softwares
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in reasearch and development in Data Science and Machine learning
+- 🌱 I’m a graduate data scienttist 
+- 💞️ I’m looking to contribute in data science community and AI
+
 
 <!---
 Tayyab333/Tayyab333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
